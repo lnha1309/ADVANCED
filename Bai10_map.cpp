@@ -7,6 +7,7 @@ using namespace std;
 //erase
 int main()
 {
+    //lnha
     //map<key,value> ,key đã có thì ko thể thêm vào
     map <int ,int> mp; //pair <int,int>
     mp.insert({1,2});
